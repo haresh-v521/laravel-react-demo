@@ -1,0 +1,13 @@
+.list {
+    list-style-type: none;
+    padding: 10px;
+}
+ul {
+    padding: 0;
+}
+ul li:hover {
+    cursor: pointer;
+}
+ul li.list:focus, ul li:active {
+    background-color: lightblue !important;
+}
