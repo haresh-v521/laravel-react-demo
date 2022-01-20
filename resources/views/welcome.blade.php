@@ -8,7 +8,7 @@
     <!-- Styles -->
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
 </head>
-<!-- testing purpuse -->
+<!-- testing purpuse  -->
 <body>
 
     <!-- React root DOM -->
